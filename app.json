@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firebase-auth-rn",
-    "slug": "firebase-auth-rn",
+    "name": "react-navigation-test",
+    "slug": "react-navigation-test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
